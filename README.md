@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
     <br/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
   </div>
@@ -29,8 +29,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=hobinBae&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobinBae&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
     <br/>
-    <a href="https://solved.ac/profile/qoghqls">
-      <img src="https://mazassumnida.vercel.app/api/v2/generate_badge?boj=qoghqls" />
-    </a>
   </div> 
 </div>

@@ -32,11 +32,6 @@
   <h2>🏅 Stats</h2>
 
   <p>
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=hobinBae&show_icons=true&bg_color=00000000&hide_border=true&text_color=000000&title_color=000000"/>
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobinBae&layout=compact&bg_color=00000000&hide_border=true&text_color=000000&title_color=000000"/>
-  </p>
-
-  <p>
     <a href="https://solved.ac/profile/qoghqls">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qoghqls" />
     </a>

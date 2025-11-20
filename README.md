@@ -1,5 +1,6 @@
 <!-- PROFILE HEADER -->
 <div align="center">
+
   <!-- TECH STACK -->
   <h2>🛠️ Tech Stacks</h2>
   <p>
@@ -18,6 +19,15 @@
 
   <br/>
 
+  <!-- CERTIFICATE -->
+  <h2>📄 Certificate</h2>
+  <p>
+    <img src="https://img.shields.io/badge/정보처리기사-0052CC?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/SQLD-4479A1?style=for-the-badge&logoColor=white">
+  </p>
+
+  <br/>
+
   <!-- CONTACT -->
   <h2>📬 Contact Me</h2>
   <p>
@@ -30,7 +40,6 @@
 
   <!-- STATS -->
   <h2>🏅 Stats</h2>
-
   <p>
     <a href="https://solved.ac/profile/qoghqls">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qoghqls" />

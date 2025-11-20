@@ -19,21 +19,21 @@
 
   <br/>
 
-  <!-- CERTIFICATE -->
-  <h2>📄 Certificate</h2>
-  <p>
-    <img src="https://img.shields.io/badge/정보처리기사-0052CC?style=for-the-badge&logoColor=white">
-    <img src="https://img.shields.io/badge/SQLD-4479A1?style=for-the-badge&logoColor=white">
-  </p>
-
-  <br/>
-
   <!-- CONTACT -->
   <h2>📬 Contact Me</h2>
   <p>
     <a href="mailto:qoghqls95@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
     <a href="mailto:qoghqls123@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"></a>
     <a href="https://velog.io/@qoghqls123"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
+  </p>
+
+  <br/>
+
+  <!-- CERTIFICATE -->
+  <h2>📄 Certificate</h2>
+  <p>
+    <img src="https://img.shields.io/badge/정보처리기사-0052CC?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/SQLD-4479A1?style=for-the-badge&logoColor=white">
   </p>
 
   <br/>

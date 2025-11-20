@@ -28,7 +28,11 @@
   <div align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=hobinBae&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hobinBae&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"/> 
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qoghqls)](https://solved.ac/qoghqls)
     <br/>
+    
+    <a href="https://solved.ac/qoghqls">
+      <img src="https://mazassumnida.vercel.app/api/v2/generate_badge?boj=qoghqls" />
+    </a>
+    
   </div> 
 </div>

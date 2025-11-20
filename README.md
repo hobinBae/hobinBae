@@ -1,12 +1,5 @@
 <!-- PROFILE HEADER -->
 <div align="center">
-
-  <!-- TITLE -->
-  <h1>👋 Hi, I'm Hobin!</h1>
-  <p>Backend Developer | Java · Spring · AWS · Docker</p>
-
-  <br/>
-
   <!-- TECH STACK -->
   <h2>🛠️ Tech Stacks</h2>
   <p>
